@@ -1,0 +1,5 @@
+com/github/wechat/sdk/api/WechatTokenApi.class
+com/github/wechat/sdk/entity/out/TokenResp.class
+com/github/wechat/sdk/entity/in/TokenQo.class
+com/github/wechat/sdk/filter/AccessFilter.class
+com/github/wechat/sdk/entity/out/WechatErrorBaseResp.class
